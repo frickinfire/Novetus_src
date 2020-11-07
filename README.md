@@ -1,10 +1,7 @@
 ![Logo](https://media.discordapp.net/attachments/693150074506838076/774496221875273758/Wow_nplus_troll.png)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/492ffef06085409ab50b73522e31be4c)](https://www.codacy.com/manual/Bitl/Novetus_src?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Bitl/Novetus_src&amp;utm_campaign=Badge_Grade)
-[![Project Status: Inactive – The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.](https://www.repostatus.org/badges/latest/inactive.svg)](https://www.repostatus.org/#inactive)
-#
 
-Source code for Novetus' launcher, installer, LUA scripts, and server.
-If you want to look at test applications built for Novetus' development, look here: https://github.com/Novetus/NovetusTests
+
+idk lol i modified novetus' launcher
 
 ## Building
 
