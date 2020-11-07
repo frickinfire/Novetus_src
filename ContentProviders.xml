@@ -22,5 +22,9 @@
 			<URL>http://i.imgur.com/</URL>
 			<Icon>imgur.png</Icon>
 		</Provider>
+		<Provider>
+			<Name>PornHub</Name>
+			<URL>https://pornhub.com/asset/?id=</URL>
+			<Icon>pornhub.png</Icon>
 	</Providers>
 </ContentProviders>
